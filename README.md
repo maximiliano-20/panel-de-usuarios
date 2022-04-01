@@ -1,37 +1,37 @@
-# Panel-de-usuarios
+# *Panel-de-usuarios*
 *Es un sistema web desarrollado con PHP POO MVC y MySQL que cubre una serie de requerimientos para realizar un administrador de
 usuarios que va desde el manejo de usuarios, creación de los mismos,creacion de roles, sesiones dependiendo su nivel perfil 
 dentro del mismo sistema*.
 
-**Funcionalidades**
+***Funcionalidades***
 
-- Login y Registro de Usuarios
+- *Login y Registro de Usuarios*
 
-- Recuperacion y Restablecimiento de Contraseñas a travez de email
+- *Recuperacion y Restablecimiento de Contraseñas a travez de email*
 
-- Subidas de Imagenes 
+- *Subidas de Imagenes*
 
-- Sesiones dependiendo su nivel de rol
+- *Sesiones dependiendo su nivel de rol*
 
-- CRUD de Usuarios
+- *CRUD de Usuarios*
 
-- CRUD de Roles
+- CRUD de Roles*
 
-**Modulo Admin**
+***Modulo Admin***
 
-- CRUD de Usuarios
+- *CRUD de Usuarios*
 
-- CRUD de Roles
+- *CRUD de Roles*
 
-**Modulo Usuario**
+***Modulo Usuario***
 
-- CRUD de Usuarios
+- *CRUD de Usuarios*
 
 
-**Usuario y Contraseña**
+***Usuario y Contraseña para ingresar***
 
-- Admin: Usuario: admin | Contraseña: 123456
-- Usuario: Usuario: usuario | Contraseña: 123456
+- *Admin: Usuario: admin | Contraseña: 123456*
+- *Usuario: Usuario: usuario | Contraseña: 123456*
 
 
 
